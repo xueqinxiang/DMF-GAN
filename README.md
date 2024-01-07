@@ -36,8 +36,10 @@ cd DMF-GAN/code/
   cd DF-GAN/code/
   ```
 ### Train the DF-GAN model
-  - For bird dataset: `bash scripts/train.sh ./cfg/bird.yml`
-  - For coco dataset: `bash scripts/train.sh ./cfg/coco.yml`
+For bird dataset: python main.py --cfg cfg/bird.yml
+
+For coco dataset: python main.py --cfg cfg/coco.yml
+
 
 The code is released for academic research use only. For commercial use, please contact [Xueqin Xiang](xxueq@aliyun.com).
 
