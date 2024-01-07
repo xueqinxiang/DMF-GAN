@@ -7,7 +7,7 @@
 
 Official Pytorch implementation for our paper [DMF-GAN: Deep Multimodal Fusion Generative Adversarial Networks for Text-to-Image Synthesis]
 
-<img src="framework.png" width="1574px" height="494px"/>
+<img src="framework.png" width="787px" height="247px"/>
 
 ---
 
